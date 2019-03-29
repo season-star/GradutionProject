@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: cqu.cs.movie_rec.UserCFDemo
+
